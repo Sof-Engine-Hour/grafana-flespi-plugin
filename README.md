@@ -5,9 +5,9 @@
 This project sets up a Grafana instance using Docker, with the Flespi plugin and additional unsigned plugins installed. The project structure is organized to ensure ease of use and deployment.
 
 ## Project Structure
-.
-├── DockerUbuntuGrafanaFile
-└── flespi-grafana-plugin
+.  
+├── DockerUbuntuGrafanaFile  
+└── flespi-grafana-plugin  
 
 
 ### DockerUbuntuGrafanaFile
